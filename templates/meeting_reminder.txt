@@ -1,0 +1,8 @@
+Hello {name},
+
+This is a friendly reminder about your upcoming session with {company}.
+
+Please review the meeting details and contact the coordinator if you have any questions.
+
+Regards,
+Automation Demo Team
