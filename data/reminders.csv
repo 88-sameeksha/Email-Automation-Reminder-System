@@ -1,0 +1,4 @@
+reminder_id,email,send_at,template_file,status,sent_at
+R001,alex@example.com,2026-11-23 09:00,meeting_reminder.txt,failed,2026-11-23 11:25:47
+R002,riya@example.com,2026-11-23 09:05,meeting_reminder.txt,failed,2026-11-23 11:25:47
+R003,sam@example.com,2026-11-24 10:00,meeting_reminder.txt,pending,
